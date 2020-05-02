@@ -1,0 +1,60 @@
+//
+This file demonstrates the basic syntax constructs of Ndexcode
+\\
+
+# that was a multi line comment. this is a single line comment
+
+# create a variable
+a: 12 # deduces the type as Inani, an integer
+
+# print the value in the variable
+bhala: a
+
+# print a blank line
+bhala
+
+bhala: "if variable a equals 9 print 'That is correct' else ..."
+
+a = 9 ?
+(
+	bhala: "That is correct"
+)|(
+	bhala: "a is not equal to 9"
+)
+
+# print a blank line
+bhala
+
+# declare variable b
+b: 7
+
+# if b is greater than 3
+b>3 ?
+(
+	bhala: "b is greater than 3"
+)
+
+# print a blank line
+bhala
+
+# while loop
+
+bhala: "while loop"
+i: 6
+
+i>2 @
+(
+	bhala: i
+	i: i-1
+)
+
+# print a blank line
+bhala
+
+bhala: "for loop"
+
+i: 0 | i<5 | i: i+1 @
+(
+	bhala: i
+)
+

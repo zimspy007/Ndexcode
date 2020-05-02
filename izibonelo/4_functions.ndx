@@ -1,0 +1,8 @@
+bhala: func: 7
+
+func :: {Inani} -> {Inombolo}:
+(
+	(Inombolo: in)/2.0
+)
+
+bhala

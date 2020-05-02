@@ -1,0 +1,84 @@
+# what do you think the following code snippits mean?
+
+# 1 _______________________________________________________________________
+
+a>b?
+	~a,
+	~b
+
+
+# 2 _______________________________________________________________________
+
+a: (b: Inombolo, c: Inombolo).
+(
+	# more code here
+)
+
+
+
+# 3 _______________________________________________________________________
+
+a:
+(
+	(b: Inombolo, c: Inombolo)=$
+	
+	# more code here
+)
+
+
+
+# 4 _______________________________________________________________________
+
+a:
+{
+	b: Inani
+	c: Inombolo
+	d: {Bool Bool}
+}
+
+
+
+# would you expect the following code to throw an error (assume no other code in the program)?
+# if not, what would you expect it to output?
+
+# 5 _______________________________________________________________________
+
+i: 0, i<6, i++ @
+	bhala: i
+
+
+
+# 6 _______________________________________________________________________
+
+a: 3
+b: 2.8
+bhala: a+b
+
+
+
+# 7 _______________________________________________________________________
+
+a: 3
+b: 2.8
+bhala: a+(Inani: b)
+
+
+
+# 8 _______________________________________________________________________
+
+a: Inani
+bhala: a
+a+=1
+bhala: a
+
+
+
+# 9
+# do you prefer ++a, or a++ to increment a variable?
+
+a: 5
+bhala: a++
+
+
+
+
