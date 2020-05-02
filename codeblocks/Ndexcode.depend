@@ -1,0 +1,636 @@
+# depslib dependency file v1.0
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\action.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/msclStringFuncs.h"
+
+1546674722 sclStringFuncs.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\action.h
+	"StackFrame.h"
+	"Type.h"
+	"CppProgram.h"
+	<functional>
+	<memory>
+	<vector>
+	<string>
+	"utils/stringDrawing.h"
+	<stdlib.h>
+
+1588353066 
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\stackframe.h
+	<vector>
+	"Type.h"
+
+1546674722 
+
+1588353891 c:\dev\proj\other\ndex-code\ndexcode-master\h\type.h
+	<string>
+	<vector>
+	<memory>
+	<cstring>
+
+1588353066 c:\dev\proj\other\ndex-code\ndexcode-master\h\cppprogram.h
+	"Type.h"
+	<map>
+	<unordered_set>
+
+1588353891 _set>
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\utils\stringdrawing.h
+	"stringUtils.h"
+
+1546674722 ls.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\utils\stringutils.h
+	<string>
+	<vector>
+	"stringArray.h"
+	"stringDrawing.h"
+
+1546674722 wing.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\utils\stringarray.h
+	"stringUtils.h"
+
+1588353066 c:\dev\proj\other\ndex-code\ndexcode-master\h\errorhandler.h
+	"Token.h"
+	<string>
+
+1588353472 c:\dev\proj\other\ndex-code\ndexcode-master\h\token.h
+	"Operator.h"
+	<string>
+	<vector>
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\operator.h
+	<memory>
+	<string>
+
+1588353066 c:\dev\proj\other\ndex-code\ndexcode-master\h\msclstringfuncs.h
+	"NdexcodeProgram.h"
+	<string>
+	<vector>
+	<functional>
+	"utils/stringUtils.h"
+
+1588353066 ingUtils.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\pineconeprogram.h
+	"VERSION.h"
+	<string>
+	<iostream>
+	<math.h>
+	<vector>
+	<list>
+	"msclStringFuncs.h"
+	"Namespace.h"
+	"StackFrame.h"
+	"Token.h"
+	"AstNode.h"
+	"SourceFile.h"
+
+1588352969 e.h"
+
+1588352984 c:\dev\proj\other\ndex-code\ndexcode-master\h\version.h
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\namespace.h
+	"Type.h"
+	"Action.h"
+	"Token.h"
+	"Operator.h"
+	"AstNode.h"
+	<unordered_map>
+	<vector>
+
+1588353066 c:\dev\proj\other\ndex-code\ndexcode-master\h\astnode.h
+	"Token.h"
+	"Action.h"
+	"ErrorHandler.h"
+	<vector>
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\sourcefile.h
+	<string>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\boolopaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/utils/stringDrawing.h"
+
+1588353472 tils/stringDrawing.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\branchaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/CppProgram.h"
+	"../../h/utils/stringDrawing.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\functionaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/StackFrame.h"
+	"../../h/AstNode.h"
+	"../../h/utils/stringNumConversion.h"
+	"../../h/utils/stringUtils.h"
+	<cstring>
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\utils\stringnumconversion.h
+	"stringUtils.h"
+
+1588354433 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\ifaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1546674722 rrorHandler.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\listaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\loopaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\maketupleaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	<vector>
+	<typeinfo>
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\typeaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1588353472 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\actions\varaction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/StackFrame.h"
+	"../../h/CppProgram.h"
+	"../../h/utils/stringNumConversion.h"
+	"../../h/Namespace.h"
+	"../../h/utils/stringDrawing.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\alloperators.cpp
+	"../h/AllOperators.h"
+	"../h/ErrorHandler.h"
+
+1588353066 rHandler.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\alloperators.h
+	<vector>
+	<unordered_map>
+	"Operator.h"
+
+1546674722 h"
+
+1588354659 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\astnode.cpp
+	"../h/AstNode.h"
+	"../h/Namespace.h"
+	"../h/ErrorHandler.h"
+	"../h/msclStringFuncs.h"
+	"../h/utils/stringDrawing.h"
+	"../h/AllOperators.h"
+
+1588354659 perators.h"
+
+1588353891 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\cppprogram.cpp
+	"../h/CppProgram.h"
+	"../h/msclStringFuncs.h"
+	<map>
+	<unordered_set>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\errorhandler.cpp
+	"../h/ErrorHandler.h"
+	"../h/msclStringFuncs.h"
+	"../h/SourceFile.h"
+	<iostream>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\lexer.cpp
+	"../h/Token.h"
+	"../h/ErrorHandler.h"
+	"../h/Operator.h"
+	"../h/AllOperators.h"
+	"../h/SourceFile.h"
+	<vector>
+	<unordered_map>
+
+1588353066 _map>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\main.cpp
+	"../h/msclStringFuncs.h"
+	"../h/NdexcodeProgram.h"
+	"../h/ErrorHandler.h"
+	<iostream>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\namespace.cpp
+	"../h/Namespace.h"
+	"../h/StackFrame.h"
+	"../h/msclStringFuncs.h"
+	"../h/ErrorHandler.h"
+	"../h/utils/stringNumConversion.h"
+
+1588353066 s/stringNumConversion.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\parser.cpp
+	"../h/Token.h"
+	"../h/AstNode.h"
+	"../h/Namespace.h"
+	"../h/ErrorHandler.h"
+	"../h/StackFrame.h"
+	"../h/AllOperators.h"
+	"../h/msclStringFuncs.h"
+	"../h/AstNode.h"
+	<vector>
+	<iostream>
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\pineconeprogram.cpp
+	"../h/PineconeProgram.h"
+	"../h/ErrorHandler.h"
+	"../h/Operator.h"
+	"../h/AllOperators.h"
+	"../h/CppProgram.h"
+
+1588353066 rogram.h"
+
+1588353865 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\resolveliteral.cpp
+	"../h/Action.h"
+	"../h/Token.h"
+	"../h/ErrorHandler.h"
+	"../h/Namespace.h"
+
+1588353865 space.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\sourcefile.cpp
+	"../h/SourceFile.h"
+	"../h/utils/fileUtils.h"
+	"../h/msclStringFuncs.h"
+
+1588353066 StringFuncs.h"
+
+1546674722 c:\dev\proj\other\ndex-code\ndexcode-master\h\utils\fileutils.h
+	"stringUtils.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\stackframe.cpp
+	"../h/StackFrame.h"
+	"../h/msclStringFuncs.h"
+	"../h/ErrorHandler.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\token.cpp
+	"../h/Token.h"
+	"../h/msclStringFuncs.h"
+	"../h/utils/stringUtils.h"
+
+1546674722 s/stringUtils.h"
+
+1588354136 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\type.cpp
+	"../h/Type.h"
+	"../h/ErrorHandler.h"
+	"../h/CppProgram.h"
+	"../h/msclStringFuncs.h"
+	<sstream>
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\utils\fileutils.cpp
+	"../../h/utils/fileUtils.h"
+	<fstream>
+	<sstream>
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\utils\stringarray.cpp
+	"../../h/utils/stringArray.h"
+
+1546674722 tils/stringArray.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\utils\stringdrawing.cpp
+	"../../h/utils/stringDrawing.h"
+	"../../h/utils/stringArray.h"
+	"../../h/msclStringFuncs.h"
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\utils\stringnumconversion.cpp
+	"../../h/utils/stringNumConversion.h"
+	<cstring>
+
+1546674722 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\utils\stringutils.cpp
+	"../../h/utils/stringUtils.h"
+	<math.h>
+
+1588352969 c:\dev\proj\other\ndex-code\ndexcode-master\h\ndexcodeprogram.h
+	"VERSION.h"
+	<string>
+	<iostream>
+	<math.h>
+	<vector>
+	<list>
+	"msclStringFuncs.h"
+	"Namespace.h"
+	"StackFrame.h"
+	"Token.h"
+	"AstNode.h"
+	"SourceFile.h"
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\msclstringfuncs.cpp
+	"../h/msclStringFuncs.h"
+	<fstream>
+	<sstream>
+	<unistd.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+
+1588353066 .h>
+
+1588353066 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\ndexcodeprogram.cpp
+	"../h/NdexcodeProgram.h"
+	"../h/ErrorHandler.h"
+	"../h/Operator.h"
+	"../h/AllOperators.h"
+	"../h/CppProgram.h"
+
+1588354790 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\ndexcodestdlib.cpp
+	"../h/NdexcodeProgram.h"
+	"../h/AllOperators.h"
+	"../h/StackFrame.h"
+	"../h/Namespace.h"
+	"../h/CppProgram.h"
+	"../h/utils/stringUtils.h"
+	"../h/Type.h"
+
+1588354790 .h"
+
+1588357825 source:c:\dev\proj\other\ndex-code\ndexcode-master\src\icon.rc
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/Action.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/msclStringFuncs.h"
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/Action.h
+	"StackFrame.h"
+	"Type.h"
+	"CppProgram.h"
+	<functional>
+	<memory>
+	<vector>
+	<string>
+	"utils/stringDrawing.h"
+	<stdlib.h>
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/StackFrame.h
+	<vector>
+	"Type.h"
+
+1588353891 /age-dev/proj/other/ndex-code/Ndexcode-master/h/Type.h
+	<string>
+	<vector>
+	<memory>
+	<cstring>
+
+1588353066 /age-dev/proj/other/ndex-code/Ndexcode-master/h/CppProgram.h
+	"Type.h"
+	<map>
+	<unordered_set>
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/utils/stringDrawing.h
+	"stringUtils.h"
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/utils/stringUtils.h
+	<string>
+	<vector>
+	"stringArray.h"
+	"stringDrawing.h"
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/utils/stringArray.h
+	"stringUtils.h"
+
+1588353066 /age-dev/proj/other/ndex-code/Ndexcode-master/h/ErrorHandler.h
+	"Token.h"
+	<string>
+
+1588353472 /age-dev/proj/other/ndex-code/Ndexcode-master/h/Token.h
+	"Operator.h"
+	<string>
+	<vector>
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/Operator.h
+	<memory>
+	<string>
+
+1588353066 /age-dev/proj/other/ndex-code/Ndexcode-master/h/msclStringFuncs.h
+	"NdexcodeProgram.h"
+	<string>
+	<vector>
+	<functional>
+	"utils/stringUtils.h"
+
+1588352969 /age-dev/proj/other/ndex-code/Ndexcode-master/h/NdexcodeProgram.h
+	"VERSION.h"
+	<string>
+	<iostream>
+	<math.h>
+	<vector>
+	<list>
+	"msclStringFuncs.h"
+	"Namespace.h"
+	"StackFrame.h"
+	"Token.h"
+	"AstNode.h"
+	"SourceFile.h"
+
+1588352984 /age-dev/proj/other/ndex-code/Ndexcode-master/h/VERSION.h
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/Namespace.h
+	"Type.h"
+	"Action.h"
+	"Token.h"
+	"Operator.h"
+	"AstNode.h"
+	<unordered_map>
+	<vector>
+
+1588353066 /age-dev/proj/other/ndex-code/Ndexcode-master/h/AstNode.h
+	"Token.h"
+	"Action.h"
+	"ErrorHandler.h"
+	<vector>
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/SourceFile.h
+	<string>
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/BoolOpAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/utils/stringDrawing.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/BranchAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/CppProgram.h"
+	"../../h/utils/stringDrawing.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/FunctionAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/StackFrame.h"
+	"../../h/AstNode.h"
+	"../../h/utils/stringNumConversion.h"
+	"../../h/utils/stringUtils.h"
+	<cstring>
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/utils/stringNumConversion.h
+	"stringUtils.h"
+
+1588354433 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/IfAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/ListAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/LoopAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/MakeTupleAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	<vector>
+	<typeinfo>
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/TypeAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+
+1588353472 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Actions/VarAction.cpp
+	"../../h/Action.h"
+	"../../h/ErrorHandler.h"
+	"../../h/StackFrame.h"
+	"../../h/CppProgram.h"
+	"../../h/utils/stringNumConversion.h"
+	"../../h/Namespace.h"
+	"../../h/utils/stringDrawing.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/AllOperators.cpp
+	"../h/AllOperators.h"
+	"../h/ErrorHandler.h"
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/AllOperators.h
+	<vector>
+	<unordered_map>
+	"Operator.h"
+
+1588354659 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/AstNode.cpp
+	"../h/AstNode.h"
+	"../h/Namespace.h"
+	"../h/ErrorHandler.h"
+	"../h/msclStringFuncs.h"
+	"../h/utils/stringDrawing.h"
+	"../h/AllOperators.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/ErrorHandler.cpp
+	"../h/ErrorHandler.h"
+	"../h/msclStringFuncs.h"
+	"../h/SourceFile.h"
+	<iostream>
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Lexer.cpp
+	"../h/Token.h"
+	"../h/ErrorHandler.h"
+	"../h/Operator.h"
+	"../h/AllOperators.h"
+	"../h/SourceFile.h"
+	<vector>
+	<unordered_map>
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/msclStringFuncs.cpp
+	"../h/msclStringFuncs.h"
+	<fstream>
+	<sstream>
+	<unistd.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Namespace.cpp
+	"../h/Namespace.h"
+	"../h/StackFrame.h"
+	"../h/msclStringFuncs.h"
+	"../h/ErrorHandler.h"
+	"../h/utils/stringNumConversion.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/NdexcodeProgram.cpp
+	"../h/NdexcodeProgram.h"
+	"../h/ErrorHandler.h"
+	"../h/Operator.h"
+	"../h/AllOperators.h"
+	"../h/CppProgram.h"
+
+1588354790 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/NdexcodeStdLib.cpp
+	"../h/NdexcodeProgram.h"
+	"../h/AllOperators.h"
+	"../h/StackFrame.h"
+	"../h/Namespace.h"
+	"../h/CppProgram.h"
+	"../h/utils/stringUtils.h"
+	"../h/Type.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Parser.cpp
+	"../h/Token.h"
+	"../h/AstNode.h"
+	"../h/Namespace.h"
+	"../h/ErrorHandler.h"
+	"../h/StackFrame.h"
+	"../h/AllOperators.h"
+	"../h/msclStringFuncs.h"
+	"../h/AstNode.h"
+	<vector>
+	<iostream>
+
+1588353865 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/ResolveLiteral.cpp
+	"../h/Action.h"
+	"../h/Token.h"
+	"../h/ErrorHandler.h"
+	"../h/Namespace.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/SourceFile.cpp
+	"../h/SourceFile.h"
+	"../h/utils/fileUtils.h"
+	"../h/msclStringFuncs.h"
+
+1546674722 /age-dev/proj/other/ndex-code/Ndexcode-master/h/utils/fileUtils.h
+	"stringUtils.h"
+
+1588353066 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/StackFrame.cpp
+	"../h/StackFrame.h"
+	"../h/msclStringFuncs.h"
+	"../h/ErrorHandler.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Token.cpp
+	"../h/Token.h"
+	"../h/msclStringFuncs.h"
+	"../h/utils/stringUtils.h"
+
+1588354136 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/Type.cpp
+	"../h/Type.h"
+	"../h/ErrorHandler.h"
+	"../h/CppProgram.h"
+	"../h/msclStringFuncs.h"
+	<sstream>
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/utils/fileUtils.cpp
+	"../../h/utils/fileUtils.h"
+	<fstream>
+	<sstream>
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/utils/stringArray.cpp
+	"../../h/utils/stringArray.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/utils/stringDrawing.cpp
+	"../../h/utils/stringDrawing.h"
+	"../../h/utils/stringArray.h"
+	"../../h/msclStringFuncs.h"
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/utils/stringNumConversion.cpp
+	"../../h/utils/stringNumConversion.h"
+	<cstring>
+
+1546674722 source:/age-dev/proj/other/ndex-code/Ndexcode-master/src/utils/stringUtils.cpp
+	"../../h/utils/stringUtils.h"
+	<math.h>
+
